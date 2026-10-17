@@ -1,0 +1,56 @@
+CONTROLLED SYNTHETIC PREVIEW — NON-EXCLUSIVE PERMISSION
+Version 1
+
+1. Scope and actual rights
+
+"Preview Materials" means only the three sample CSV files and the documentation
+in this public preview repository. "Licensor" means the supplying rights holder,
+only insofar as that party actually owns, controls, or is legally permitted to
+license the relevant rights. This permission does not relicense any other part
+of the separate private full package, its source, tests, data, or documentation.
+
+No exclusive copyright in AI-generated output, ownership of independent facts,
+third-party rights, or universal protectability is asserted. Nothing here grants
+or restricts rights beyond the Licensor's actual licensable rights. Your existing
+rights and mandatory legal exceptions remain unaffected.
+
+2. Non-exclusive, royalty-free permission
+
+To the extent of those actual rights, you may use, copy, modify, redistribute,
+and fork the Preview Materials, including for commercial uses. No royalty is
+required for this permission, and no exclusivity is granted.
+
+When sharing all or part of the Preview Materials, or modified versions, retain
+this permission notice and intelligible notices that the data are controlled
+synthetic fixtures and the original preview was authored, validated, and reviewed
+automatically with AI, without human QA. Identify your material modifications;
+do not imply that modified data were validated by the original supplier.
+Retain an intelligible synthetic-data disclosure with displayed data or derived
+demo outputs. Do not present these records as observed retail transactions or
+falsely claim human review or endorsement.
+
+Public copies and forks are permitted. They may persist independently; no promise
+is made that every public copy can later be retrieved, removed, or recalled.
+
+3. Synthetic status and limits
+
+All stores, products, sales, prices, promotions, and returns are fictional.
+Calendar dates and USD are test conventions only. This is not real retail data,
+a forecast, an accounting ledger, a market-realism claim, or evidence of actual
+income. The January preview is not representative of every full-year pattern.
+No PII or customer records are supplied. Excel and Google Sheets compatibility
+has not been tested. No production suitability or defect-free operation is
+promised, and no legal, financial, tax, or professional accounting advice is given.
+
+4. No warranty; responsibility
+
+The Preview Materials are provided "AS IS" and "AS AVAILABLE", without warranties
+of title, non-infringement, accuracy, completeness, security, merchantability,
+fitness for a particular purpose, or absence of defects, to the extent permitted
+by applicable law. You are responsible for checking your use, modifications,
+outputs, suitability, and applicable legal obligations. No third-party trademark,
+endorsement, patent, or other rights are granted by implication.
+
+To the maximum extent permitted by applicable law, the Licensor is not liable
+for loss or damage arising from the Preview Materials or their use. This does
+not exclude liability that applicable law does not allow to be excluded.

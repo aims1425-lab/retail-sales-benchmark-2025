@@ -1,0 +1,4 @@
+product_id,product_name,category,unit_price_cents,base_daily_units,is_synthetic
+P001,SYNTH Product 001,SYNTH Category A,249,12,true
+P002,SYNTH Product 002,SYNTH Category A,399,18,true
+P003,SYNTH Product 003,SYNTH Category A,599,22,true
